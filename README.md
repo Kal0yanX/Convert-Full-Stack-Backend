@@ -63,7 +63,14 @@ For more details on how to use the Create Go App CLI for project setup and deplo
 Explore the project's Wiki for comprehensive information and frequently asked questions.
 
 ## License
-This project is open-source and licensed under the Apache 2.0 License. The official logo was created by Vic Shóstak and distributed under a Creative Commons license (CC BY-SA 4.0 International).
+
+This project is open-source and made possible by the contributions of NCSU students and the use of photos from Pexels.com. Please review the licensing terms for individual components:
+
+- The code and software in this project are licensed under the [MIT License](LICENSE.md).
+- Photos and images used in this project are sourced from [Pexels.com](https://www.pexels.com/) and are subject to their respective licenses. Please refer to Pexels.com for licensing information regarding these images.
+
+Your use of this project's code and resources is subject to the terms and conditions specified in the applicable licenses.
+
 
 ## Contributions
 Feel free to contribute to this project by opening issues, submitting feature requests, or sending pull requests. Let's work together to make this Recipe CRUD application even better! 😊
